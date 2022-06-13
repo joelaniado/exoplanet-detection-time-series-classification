@@ -1,1 +1,1 @@
-# exoplanet-detection-time-series-classification
+# Univariate time series classification for exoplanet detection.
